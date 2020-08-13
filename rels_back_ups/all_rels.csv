@@ -1,4 +1,4 @@
-rhs,relation,lhs
+lhs,relation,rhs
 3d,is-a,field
 3d,used-in,visuals
 3d,used-for,3d-printing
